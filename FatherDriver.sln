@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{6542BB2D-01E7-4BF1-8988-94792B46FE81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViewModels", "common\ViewModels\ViewModels.csproj", "{E5A377AA-1EF2-4066-957E-D0125D2D9270}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF", "WPF", "{F33B32EB-ECD3-46A5-B9AC-44488432A503}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FatherDriver.WPF.UI", "WPF\FatherDriver.WPF.UI\FatherDriver.WPF.UI.csproj", "{8726648E-9F31-459E-A488-078A5512847A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E5A377AA-1EF2-4066-957E-D0125D2D9270} = {E5A377AA-1EF2-4066-957E-D0125D2D9270}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A377AA-1EF2-4066-957E-D0125D2D9270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A377AA-1EF2-4066-957E-D0125D2D9270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A377AA-1EF2-4066-957E-D0125D2D9270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A377AA-1EF2-4066-957E-D0125D2D9270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8726648E-9F31-459E-A488-078A5512847A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8726648E-9F31-459E-A488-078A5512847A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8726648E-9F31-459E-A488-078A5512847A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8726648E-9F31-459E-A488-078A5512847A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E5A377AA-1EF2-4066-957E-D0125D2D9270} = {6542BB2D-01E7-4BF1-8988-94792B46FE81}
+		{8726648E-9F31-459E-A488-078A5512847A} = {F33B32EB-ECD3-46A5-B9AC-44488432A503}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF623060-B582-49CE-BA50-959C28056ED4}
+	EndGlobalSection
+EndGlobal
