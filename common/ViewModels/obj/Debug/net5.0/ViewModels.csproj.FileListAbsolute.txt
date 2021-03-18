@@ -1,0 +1,12 @@
+C:\Users\ACER\Desktop\Шарпы\MyProject\FatherDriver\common\ViewModels\bin\Debug\net5.0\ViewModels.deps.json
+C:\Users\ACER\Desktop\Шарпы\MyProject\FatherDriver\common\ViewModels\bin\Debug\net5.0\ViewModels.dll
+C:\Users\ACER\Desktop\Шарпы\MyProject\FatherDriver\common\ViewModels\bin\Debug\net5.0\ref\ViewModels.dll
+C:\Users\ACER\Desktop\Шарпы\MyProject\FatherDriver\common\ViewModels\bin\Debug\net5.0\ViewModels.pdb
+C:\Users\ACER\Desktop\Шарпы\MyProject\FatherDriver\common\ViewModels\obj\Debug\net5.0\ViewModels.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Шарпы\MyProject\FatherDriver\common\ViewModels\obj\Debug\net5.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Шарпы\MyProject\FatherDriver\common\ViewModels\obj\Debug\net5.0\ViewModels.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Шарпы\MyProject\FatherDriver\common\ViewModels\obj\Debug\net5.0\ViewModels.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Шарпы\MyProject\FatherDriver\common\ViewModels\obj\Debug\net5.0\ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Шарпы\MyProject\FatherDriver\common\ViewModels\obj\Debug\net5.0\ViewModels.dll
+C:\Users\ACER\Desktop\Шарпы\MyProject\FatherDriver\common\ViewModels\obj\Debug\net5.0\ref\ViewModels.dll
+C:\Users\ACER\Desktop\Шарпы\MyProject\FatherDriver\common\ViewModels\obj\Debug\net5.0\ViewModels.pdb
